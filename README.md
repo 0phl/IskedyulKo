@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="client/public/iskedyulKo.png" alt="IskedyulKo Logo" width="200" height="200">
-
-  # IskedyulKo
+  <img src="client/public/iskedyulKo.png" alt="IskedyulKo Logo" width="900" height="900">
 
   *A simple and elegant booking system for Filipino businesses*
 
