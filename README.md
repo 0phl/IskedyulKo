@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="client/public/iskedyulKo.png" alt="IskedyulKo Logo" width="200" height="200">
 
   # IskedyulKo
 
